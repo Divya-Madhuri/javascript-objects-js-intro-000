@@ -1,2 +1,3 @@
-var playlist = {'first' : test,
-                'second': second}
+var playlist = {'first' : 'test',
+                'second': 'second'}
+
